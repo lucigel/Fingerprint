@@ -1,0 +1,4 @@
+torch torchvision
+PILLOW
+tensorboard
+streamlit
