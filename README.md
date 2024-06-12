@@ -26,8 +26,8 @@ pip install -r requirements.txt
 ```
 # Output 
 this here is input image with infomation of object 
-![image](https://github.com/lucigel/Fingerprint/assets/110618653/0e97fbfc-bd5f-4a18-ab9c-c9d517827ae9).
 
+![image](https://github.com/lucigel/Fingerprint/assets/110618653/0e97fbfc-bd5f-4a18-ab9c-c9d517827ae9).
 
 **Predict**
 ![image](https://github.com/lucigel/Fingerprint/assets/110618653/be42b273-3df4-4cc5-acf4-3bde14faa29c)
