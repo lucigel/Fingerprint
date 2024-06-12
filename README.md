@@ -22,11 +22,11 @@ you only run this command to dependence installation
 i hope you installed cuda toolkit if your device have GPU 
 
 ```python3
-pip install -r requirements 
+pip install -r requirements.txt
 ```
 # Output 
 this here is input image with infomation of object 
-![image](https://github.com/lucigel/Fingerprint/assets/110618653/0e97fbfc-bd5f-4a18-ab9c-c9d517827ae9)
+![image](https://github.com/lucigel/Fingerprint/assets/110618653/0e97fbfc-bd5f-4a18-ab9c-c9d517827ae9).
 
 
 **Predict**
